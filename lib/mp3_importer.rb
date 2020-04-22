@@ -4,5 +4,10 @@ class MP3Importer
   #Action Bronson - Larry Csonka - indie.mp3
   #Artist" - "Song" - "Genre.mp3
   
+  end
+  
+  def import
+    
+  end
   
 end
