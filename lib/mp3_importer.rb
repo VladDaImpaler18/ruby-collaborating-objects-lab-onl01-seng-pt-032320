@@ -13,4 +13,7 @@ class MP3Importer
     Dir.entries(@path).reject{|filename| filename=="." ||filename==".."}
   end
   
+  def import
+    binding.pry
+  end
 end
